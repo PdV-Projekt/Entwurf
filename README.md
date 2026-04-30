@@ -1,6 +1,9 @@
 # Partei der Vernunft – Wahlprogramm  
 ## Konzeptionelles Projekt / Experiment
 
+Das Projekt sucht einen neuen Namen, da es eine solche Partei schon gibt.
+Dies war zum Zeitpunkt der Erstellung noch nicht bekannt.
+
 Dieses Repository enthält einen **konzeptionellen Entwurf eines Wahlprogramms** unter dem Arbeitstitel *„Partei der Vernunft“*.  
 Es handelt sich **nicht um eine gegründete Partei**, **nicht um eine politische Organisation** und **nicht um ein Parteiprojekt im rechtlichen Sinne**.
 
